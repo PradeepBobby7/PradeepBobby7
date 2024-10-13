@@ -1,19 +1,18 @@
 - 👋 Hi, I’m Pradeep
-- 👀 I’m interested Python Programming, Web Development, Data Science, and Machine Learning.
-- 🌱 I’m currently learning **Python Django** (for web application)
-- 💞 I’m looking to collaborate on *Web development*, Data analysis and visualization, AI/ML applications
+- 👀 I’m interested Python Programming, Flutter(Dart) Mobile App Development and Designing.
+- 🌱 I’m currently learning **State Management in Flutter** (for Complex Mobile Applications)
+- 💞 I’m looking to collaborate on *Mobile App Development* visualization and AI/ML applications
 - 📫 How to reach me
-- Email: csathishkumar2002@gmail.com
-- LinkedIn: www.linkedin.com/in/csathishkumar2002
-- GitHub: https://github.com/sathishkumar-c-2002
-- Geeksforgeeks: https://www.geeksforgeeks.org/user/csathishkhkbl/
+- Email: pradeepdeveloper24@gmail.com
+- LinkedIn: https://www.linkedin.com/in/pradeep-p-330a9b24a/
+- GitHub: https://github.com/PradeepBobby7
+- Geeksforgeeks: https://github.com/PradeepBobby7
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a Python enthusiast leveraging Web Development superpowers to build innovative *web applications with Django*, driven by a passion for coding and data-driven decision-making.
+- ⚡ Fun fact: I'm a Python enthusiast diving into the world of Flutter, blending my web development skills with mobile magic to create innovative applications. Whether it's coding or designing, I’m driven by a passion for crafting user-friendly experiences and data-driven solutions!
 
 
 <div style="display: flex; justify-content: space-between;">
-<!--   <img src="https://desk.zoho.com/portal/api/kbCategory/4000000217879/logo/327583000026924010?orgId=4241905" alt="Catalyst Logo" width="100"> -->
-  <img src="https://www.opengis.ch/wp-content/uploads/2020/04/django-python-logo.png" alt="Python-Django Logo" width="100">
+  <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3253780/flutter-icon-md.png" alt="Python-Django Logo" width="100">
   <img src="https://www.pngplay.com/wp-content/uploads/7/Mysql-Logo-PNG-Free-File-Download.png" alt="MySQL Logo" width="100">
 <!--   <img src="https://help.zoho.com/portal/api/departments/4000609360326/logo?portalId=edbsn3b70dd1c6df566ee5b86f9a10b39ac781e714edb9c3a38a191adf0c5b716166e" alt="Deluge" width="100">
   <img src="https://desk.zoho.com/portal/api/kbCategory/4000000217879/logo/327583000026924010?orgId=4241905" alt="Creator Logo" width="100"> -->
