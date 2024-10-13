@@ -16,9 +16,8 @@
   <img src="https://www.pngmart.com/files/23/Python-Logo-PNG-Photos.png" alt="Python Logo" width="100">
   <img src="https://www.pngplay.com/wp-content/uploads/7/Mysql-Logo-PNG-Free-File-Download.png" alt="MySQL Logo" width="100">
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" alt="Dart Language Logo" width="100">
-  <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" alt="Firebase Logo" width="83">
-  <img src="https://brandslogos.com/wp-content/uploads/images/large/figma-logo.png" alt="Figma Logo" width="80">
+  <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" alt="Firebase Logo" width="100">
+  <img src="https://brandslogos.com/wp-content/uploads/images/large/figma-logo.png" alt="Figma Logo" width="60">
 </div>
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://learnloner.com/wp-content/uploads/2024/02/1661493497844.png" alt="REST-API " width="100">
 </div>
