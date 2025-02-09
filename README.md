@@ -4,7 +4,7 @@
 - 💞 I’m looking to collaborate on *Mobile App Development* visualization and AI/ML applications
 - 📫 How to reach me
 - Email: pradeepdeveloper24@gmail.com
-- LinkedIn: https://www.linkedin.com/in/pradeep-p-330a9b24a/
+- LinkedIn: https://www.linkedin.com/in/pradeep-palanisamy-330a9b24a/
 - GitHub: https://github.com/PradeepBobby7
 - Geeksforgeeks: https://github.com/PradeepBobby7
 - 😄 Pronouns: He/Him
